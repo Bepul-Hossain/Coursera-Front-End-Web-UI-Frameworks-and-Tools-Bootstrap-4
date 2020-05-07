@@ -1,5 +1,5 @@
 ```step 1:
-Step 1: 
+Step 1: Setting up development environment
 
 create a folder 'coursera'
 coursera> npm init
@@ -31,5 +31,6 @@ open package.json
   }
 }
 
+coursera> create 'index.html' file on root folder
 coursera> npm start
 ```
