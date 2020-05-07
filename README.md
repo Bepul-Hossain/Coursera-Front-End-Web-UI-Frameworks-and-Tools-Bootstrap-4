@@ -1,9 +1,11 @@
+```step 1:
+Step 1: 
+
 create a folder 'coursera'
 coursera> npm init
 coursera> npm install lite-server --save-dev
 
-
-```open package.json
+open package.json
 {
   "name": "coursera",
   "version": "1.0.0",
@@ -28,5 +30,6 @@ coursera> npm install lite-server --save-dev
     "lite-server": "^2.5.4"
   }
 }
-```
+
 coursera> npm start
+```
