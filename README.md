@@ -38,3 +38,4 @@ to: cwd: parseInt(process.versions.node) < 8 ? process.cwd : process.cwd(),
 ```
 
 [parrallelshell error solve](https://stackoverflow.com/questions/51060296/how-do-you-correctly-use-parallelshell-with-npm-scripts)
+
